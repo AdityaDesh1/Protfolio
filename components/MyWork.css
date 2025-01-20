@@ -1,0 +1,43 @@
+/* src/components/RootsOfMyWork.css */
+.root-section {
+    text-align: center;
+    padding: 50px;
+
+  }
+  
+  .flex-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .root-item {
+    max-width: 300px;
+    margin: 20px;
+    text-align: left;
+  }  
+   
+  .root-item h3 {
+    font-size: 1.5em;
+    margin-top: 10px;
+    line-height: 1.5;
+
+  }
+  
+  .root-item p {
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .h2-section{
+    color:#1a73e8 ;
+    text-align: left;
+    padding-left: 5%;
+    font-weight: bolder;
+  }
+
+  .wrk-img{
+    width:70px;
+    line-height: 1.5;
+  }

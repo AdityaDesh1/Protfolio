@@ -1,0 +1,25 @@
+.details-info{
+    text-align: center;
+    padding: 50px;
+}
+.details-container{
+    display: flex;
+    padding-left: 5%;
+    gap: 50px;
+    align-items: center;
+    
+   
+}
+
+.snap-image{
+    display: flex;
+    width: 200px;
+    
+}
+
+.snap-title {
+    font-size: small;
+    line-height: 2.0;
+    font-size: 15px;
+    text-align: center;
+}

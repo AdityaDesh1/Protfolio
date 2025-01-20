@@ -1,0 +1,31 @@
+.resume-title{
+    padding-top: 5%;
+    padding-left: 10%;
+    font-size: 40px;
+    color: #1a73e8;
+    text-align: left;
+    line-height: 1.2;
+    margin-bottom: 50px; 
+  }
+  
+
+.resume-description {
+    padding-left: 10%;
+    padding-right: 20%;
+    margin-bottom: 5%;
+    font-size: 20px;
+    color: #333;
+    line-height: 1.6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    margin-top: 0;
+  }
+  
+.projects-section{
+    padding: 10px 0;
+    background-color: white;
+    text-align: center;
+  }
+
+ 
+  

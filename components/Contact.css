@@ -1,0 +1,89 @@
+.contact-section {
+    padding: 30px 20px;
+    text-align: center;
+    background-color: white; 
+    left: 50%;
+    right: 50%;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    margin-bottom: 100px;
+
+}
+
+.contact-title {
+    display: flex;
+    padding-left: 10%;
+    color: #1a73e8;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+    line-height: 5.0;
+    font-weight: bold;
+
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    gap: 20px;
+}
+
+.contact-info a {
+    
+    display: flex;
+    align-items: center;
+    color: black;
+    text-decoration: none;
+    margin: 0 10px; 
+    font-size: 20px;
+    padding-left: 10%;
+    gap: 3px;
+}
+
+.contact-info i {
+    margin-right: 10px;
+    
+    
+}
+
+.footer-section{
+    display: flex;
+    background-color: white;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    justify-content: flex-start;
+    align-items: center; 
+    margin-top: 5%;
+    margin-bottom: -8%;
+    
+   
+}
+
+.logo-section{
+    display: flex;
+    height: 70px;
+    padding-left: 10%;
+}
+
+.download-resume {
+
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    margin-left: 50%;
+    color:  #1a73e8;
+    border: 1px solid #1a73e8;
+    padding: 5px 5px;
+    border-radius: 5px;
+    background-color: white;
+    
+    
+    
+}
+
+.download-resume:hover{
+    background-color: #1a73e8;
+    color: white;
+}

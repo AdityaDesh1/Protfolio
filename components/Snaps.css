@@ -1,0 +1,26 @@
+
+
+
+.space1{
+  background-color: bisque;
+  gap: 5%;
+}
+
+.back{
+  align-items: center;
+  gap: 2px;
+}
+
+.content2{
+  align-items: center;
+}
+
+.image3{
+  padding-left: 20%;
+  gap: 6%;
+  align-items: center;
+}
+
+.image1{
+  line-height: 2%;
+}
